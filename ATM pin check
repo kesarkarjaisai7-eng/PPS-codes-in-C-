@@ -1,0 +1,22 @@
+//Name: Jaisai Anil Kesarkar 
+//PRN: 2503033111378UD023
+#include <stdio.h>
+
+int main()
+{
+    int pin;
+
+    printf("Enter ATM PIN: ");
+    scanf("%d", &pin);
+
+    if(pin == 1234)
+    {
+        printf("Correct PIN");
+    }
+    else
+    {
+        printf("Wrong PIN");
+    }
+
+    return 0;
+}
