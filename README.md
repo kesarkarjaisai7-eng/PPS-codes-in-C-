@@ -1,2 +1,2 @@
-# PPS-codes-in-C-
+# PPS-codes-in-C++-
 Codes for C++
